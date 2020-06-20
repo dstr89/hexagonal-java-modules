@@ -1,5 +1,6 @@
-# User-specific stuff
+### InteliJ ###
 .idea/
+*iml
 
 ### Java ###
 # Compiled class file
