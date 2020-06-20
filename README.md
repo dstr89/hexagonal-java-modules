@@ -1,6 +1,17 @@
 ## Project
 
+In this tutorial, we'll implement a simple Java application applying hexagonal architecture design principles.
 
+Additionally, we'll organize our application layers using Java Modules, which requires JDK version 9 or higher.
+
+With this approach, we'll decouple our core business logic and aim to improve understandability and maintainability.
+
+### Documentation
+
+For a more detailed description please refer to the article:
+
+    https://medium.com/@daniel.strmecki_67382/a-practical-example-of-applying-java-modules-in-a-hexagonal-architecture-d345deec654b
+    
 
 ### Build
 
